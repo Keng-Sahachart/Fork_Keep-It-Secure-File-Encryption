@@ -64,7 +64,9 @@ namespace AkalankaUKEncrypt
                 File.Delete(inputFile);
                 return true;
             }
-            catch { }
+            catch(Exception e) {
+                MessageBox.Show(e.Message.ToString());
+            }
             return false;
         }
 
@@ -99,8 +101,10 @@ namespace AkalankaUKEncrypt
             {
                 foreach (string s in ofd.FileNames)
                 {
-                    if (EncryptFile(s)) txStatus.AppendText(s + " has been successfully encrypted" + Environment.NewLine);
-                    else txStatus.AppendText(s + " could not be encrypted" + Environment.NewLine);
+                    if (EncryptFile(s)) 
+                        txStatus.AppendText(s + " has been successfully encrypted" + Environment.NewLine);
+                    else 
+                        txStatus.AppendText(s + " could not be encrypted" + Environment.NewLine);
                 }
             }
         }
@@ -113,8 +117,10 @@ namespace AkalankaUKEncrypt
             {
                 foreach (string s in ofd.FileNames)
                 {
-                    if (DecryptFile(s)) txStatus.AppendText(s + " has been successfully decrypted" + Environment.NewLine);
-                    else txStatus.AppendText(s + " could not be decrypted" + Environment.NewLine);
+                    if (DecryptFile(s)) 
+                        txStatus.AppendText(s + " has been successfully decrypted" + Environment.NewLine);
+                    else 
+                        txStatus.AppendText(s + " could not be decrypted" + Environment.NewLine);
                 }
             }
         }
@@ -155,6 +161,11 @@ namespace AkalankaUKEncrypt
         {
             MessageBox.Show("When you encrypt your file,original fill will be removed automatically.If you didn't want to remove original file erase 'File.Delete(inputFile);' from Form1.cs (Line Num 64)",
    "Info");
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

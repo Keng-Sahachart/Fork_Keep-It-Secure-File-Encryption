@@ -26,3 +26,16 @@ C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\obj\Debug\AkalankaUKEncrypt.cs
 C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\obj\Debug\Keep It Secure v1.5.TrustInfo.xml
 C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\obj\Debug\Keep It Secure v1.5.exe.manifest
 C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\obj\Debug\Keep It Secure v1.5.application
+C:\Users\KeNG\Documents\GitHub\Keep-It-Secure-File-Encryption\AkalankaUKEncrypt\bin\Debug\Keep It Secure v1.5.exe.manifest
+C:\Users\KeNG\Documents\GitHub\Keep-It-Secure-File-Encryption\AkalankaUKEncrypt\bin\Debug\Keep It Secure v1.5.application
+C:\Users\KeNG\Documents\GitHub\Keep-It-Secure-File-Encryption\AkalankaUKEncrypt\bin\Debug\Keep It Secure v1.5.exe
+C:\Users\KeNG\Documents\GitHub\Keep-It-Secure-File-Encryption\AkalankaUKEncrypt\bin\Debug\Keep It Secure v1.5.pdb
+C:\Users\KeNG\Documents\GitHub\Keep-It-Secure-File-Encryption\AkalankaUKEncrypt\obj\Debug\AkalankaUKEncrypt.csprojAssemblyReference.cache
+C:\Users\KeNG\Documents\GitHub\Keep-It-Secure-File-Encryption\AkalankaUKEncrypt\obj\Debug\AkalankaUKEncrypt.Form1.resources
+C:\Users\KeNG\Documents\GitHub\Keep-It-Secure-File-Encryption\AkalankaUKEncrypt\obj\Debug\AkalankaUKEncrypt.Properties.Resources.resources
+C:\Users\KeNG\Documents\GitHub\Keep-It-Secure-File-Encryption\AkalankaUKEncrypt\obj\Debug\AkalankaUKEncrypt.csproj.GenerateResource.cache
+C:\Users\KeNG\Documents\GitHub\Keep-It-Secure-File-Encryption\AkalankaUKEncrypt\obj\Debug\Keep It Secure v1.5.TrustInfo.xml
+C:\Users\KeNG\Documents\GitHub\Keep-It-Secure-File-Encryption\AkalankaUKEncrypt\obj\Debug\Keep It Secure v1.5.exe.manifest
+C:\Users\KeNG\Documents\GitHub\Keep-It-Secure-File-Encryption\AkalankaUKEncrypt\obj\Debug\Keep It Secure v1.5.application
+C:\Users\KeNG\Documents\GitHub\Keep-It-Secure-File-Encryption\AkalankaUKEncrypt\obj\Debug\Keep It Secure v1.5.exe
+C:\Users\KeNG\Documents\GitHub\Keep-It-Secure-File-Encryption\AkalankaUKEncrypt\obj\Debug\Keep It Secure v1.5.pdb
